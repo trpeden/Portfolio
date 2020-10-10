@@ -1,0 +1,22 @@
+
+.navbar {
+    height: 100px;
+    color: rgb(1, 199, 1);
+}
+
+
+
+.footer {
+
+    height: 100px;
+    background-color: rgb(5, 102, 5);
+    width: 100%;
+    
+} 
+
+.accordion {
+height: 200;
+width: 25%;
+color: light green;
+
+}
