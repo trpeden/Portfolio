@@ -29,6 +29,12 @@
 
 }
 
+.homeimage {
+
+    height: 400px;
+    width: 460px;
+}
+
 .body2 {
     background-image:url(/Portfolio/sara-kurfess-k68S17uT9dU-unsplash.jpg);
     background-size: cover;
