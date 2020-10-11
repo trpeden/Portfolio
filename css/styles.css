@@ -1,22 +1,46 @@
 
 .navbar {
     height: 100px;
-    color: rgb(1, 199, 1);
+    
 }
 
-
+#jumbo1  {
+   background-color: rgb(6, 209, 6);
+}
 
 .footer {
 
-    height: 100px;
+    height: 50px;
     background-color: rgb(5, 102, 5);
     width: 100%;
-    
+    flex-wrap: wrap;
 } 
 
 .accordion {
-height: 200;
-width: 25%;
-color: light green;
+   height: 200px;
+   width: 25%;
+   
+
+}
+
+.form-group {
+    height: 75px;
+    width: 50%;
+
+}
+
+.body2 {
+    background-image:url(/Portfolio/sara-kurfess-k68S17uT9dU-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    position: relative;
+}
+
+.contactphoto {
+    
+  height: 50px;
+  width: fit-content;
+    
 
 }
