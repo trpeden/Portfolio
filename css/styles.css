@@ -1,11 +1,24 @@
 
 .navbar {
     height: 100px;
-    
+    font-family: "Lobster";
 }
 
-#jumbo1  {
+#jumbohome  {
    background-color: rgb(6, 209, 6);
+   font-family:"Source+Sans+Pro";
+}
+
+.jumbo2 {
+    
+    background-color: rgb(192, 241, 192);
+    font-family:"Source+Sans+Pro";
+}
+
+
+.homephoto {
+    height: 300px;
+    width: 500px;
 }
 
 .footer {
@@ -14,25 +27,20 @@
     background-color: rgb(5, 102, 5);
     width: 100%;
     flex-wrap: wrap;
+    font-family:"Source+Sans+Pro";
 } 
 
 .accordion {
    height: 200px;
    width: 25%;
-   
+   font-family:"Source+Sans+Pro";
 
 }
 
 .form-group {
     height: 75px;
     width: 50%;
-
-}
-
-.homeimage {
-
-    height: 400px;
-    width: 460px;
+    font-family:"Source+Sans+Pro";
 }
 
 .body2 {
@@ -43,10 +51,16 @@
     position: relative;
 }
 
+.jumbocontact {
+
+    background-color:  rgb(6, 209, 6);
+    font-family:"Source+Sans+Pro";
+}
+
+
 .contactphoto {
     
   height: 600px;
   width: 400px;
-    
-
+  
 }
