@@ -9,11 +9,12 @@
    font-family:"Source+Sans+Pro";
 }
 
-.jumbo2 {
+.containerhome {
     
     background-color: rgb(192, 241, 192);
     font-family:"Source+Sans+Pro";
-}
+    
+}   
 
 
 .homephoto {
@@ -23,7 +24,7 @@
 
 .footer {
 
-    height: 50px;
+    height: 100px;
     background-color: rgb(5, 102, 5);
     width: 100%;
     flex-wrap: wrap;
@@ -66,17 +67,26 @@
 }
 
 .form_wrapper {
-    background-color: rgb(129, 238, 161);
+    background-color:rgb(192, 241, 192);
     border-radius: 10px;
     padding: 20px 30px;
     margin-bottom: 6rem;
   }
 
   .abouttext  {
-
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color:  rgb(192, 241, 192);
   }
+
+  .about2  {
+
+   
+  }
+
+
   
+ 
+
