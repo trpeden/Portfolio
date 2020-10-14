@@ -64,3 +64,19 @@
   width: 400px;
   
 }
+
+.form_wrapper {
+    background-color: rgb(129, 238, 161);
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin-bottom: 6rem;
+  }
+
+  .abouttext  {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(192, 241, 192);
+  }
+  
